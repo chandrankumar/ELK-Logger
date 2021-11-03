@@ -1,0 +1,7 @@
+spring:
+ application:
+    name: ELKLogger
+
+logging: 
+  file: C:/Users/0004R7744/Documents/ELK/logs/elk.log
+
